@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1083622847256",
+    "firebase_url": "https://erpfirebaseproject-2f63e.firebaseio.com",
+    "project_id": "erpfirebaseproject-2f63e",
+    "storage_bucket": "erpfirebaseproject-2f63e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083622847256:android:9327c886e1e0f579a0246d",
+        "android_client_info": {
+          "package_name": "com.example.erp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083622847256-4562908tguriq4fqpcbdgcnu956b8mt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.erp",
+            "certificate_hash": "f58e7e663a8295583e1fbad290ad58c869d4e562"
+          }
+        },
+        {
+          "client_id": "1083622847256-baf4hla2bik0lb6n7qqc3jecd38qbdsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VSEKx_t26CqOb__9N-NcrCrvgsDxj0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083622847256-baf4hla2bik0lb6n7qqc3jecd38qbdsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
